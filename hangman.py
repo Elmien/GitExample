@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-word = "Potsdam"	#the word to be guessed
+word = "Biology"	#the word to be guessed
 triesLeft = 8		#the total number of wrong guess you have
 
 guesses = []		#a list of all guesses made
